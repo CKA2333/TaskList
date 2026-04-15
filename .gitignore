@@ -1,0 +1,10 @@
+# Personal task data — keep local
+tasks.json
+
+# Claude Code local settings
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
